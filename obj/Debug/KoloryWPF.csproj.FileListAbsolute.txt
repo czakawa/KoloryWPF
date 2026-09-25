@@ -1,0 +1,15 @@
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe.config
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.pdb
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.AssemblyReference.cache
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.g.cs
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\App.g.cs
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.cache
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.lref
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.baml
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.g.resources
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.Properties.Resources.resources
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.GenerateResource.cache
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.CoreCompileInputs.cache
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.exe
+C:\Users\OlekPindolek\source\repos\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.pdb
